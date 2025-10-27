@@ -1,0 +1,7 @@
+paths:
+  events_folder: "dataset_annuali_mi"
+  shapefile: "zonizzazione progetto/Shapefile_uniBicocca.shp"
+
+map:
+  default_zoom: 12
+  center: [45.464, 9.188]
