@@ -116,7 +116,7 @@ def create_report_stats(data_subset, period_label):
     return stats
 
 def generate_pdf_report(data, period_info):
-    """Genera report PDF (simulato con CSV per semplicità)"""
+    """Genera report PDF"""
     buffer = BytesIO()
     
     #report dettagliato
